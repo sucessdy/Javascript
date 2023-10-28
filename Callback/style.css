@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    justify-content: center;
+     display: flex ;
+     padding-top: 40%;
+}
+
+
+
+button {
+    padding:  1rem  2rem  1rem  2rem ; 
+font-size:  15px;
+    color: white;
+     background: #000;
+     text-transform:  uppercase;
+
+  
+
+}
